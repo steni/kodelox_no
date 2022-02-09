@@ -8,7 +8,6 @@ local function onCharacterAdded(character, player)
 		local poeng = player.leaderstats.Poeng
 		poeng.Value = 0
 	end)
-
 end
 
 local function spillerLagtTil(spiller)
